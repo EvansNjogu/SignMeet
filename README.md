@@ -67,6 +67,12 @@ https://signmeet.uc.r.appspot.com/
 
 
 
+## Challenges
+
+- The tool is still inaccurate as it needs more data to train the model.
+
+- The tool suffers from bias, something I look forward to fixing in the near future.
+
 
 
 
